@@ -6,7 +6,7 @@
 
 | 组件 | 型号 |
 |---|---|
-| 主控 | 树莓派 4/5 (Raspberry Pi OS Bookworm) |
+| 主控 | 树莓派 5 (Raspberry Pi OS Bookworm) |
 | 摄像头 | OV5647 CSI 摄像头 (或兼容 picamera2) |
 | 舵机驱动 | PCA9685 16 通道 PWM 板 (I2C 0x40) |
 | 舵机 | 标准 PWM 舵机 ×3 (180°, 500-2500µs) |
